@@ -11,6 +11,8 @@ import {
 } from "@material-ui/icons";
 import { Grid, Slider } from "@material-ui/core";
 
+
+//Updated
 function Footer() {
   return (
     <div className="footer">
